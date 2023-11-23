@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    text-align:             bottom;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header, footer {
+    background-color: 	#000000;
+    color: rgb(219, 171, 13);
+    padding: 10px;
+  }
+  
+  #stopwatch {
+    font-size: 2em;
+    margin: 20px;
+  }
+  
+  button {
+    font-size: 1em;
+    margin: 5px;
+    padding: 10px;
+  }
+  
